@@ -1,11 +1,14 @@
 {
   "name": "issueTime",
   "version": "0.0.1",
-  "main": "app.html",
+  "main": "app/app.html",
   "window": {
     "toolbar": true,
     "width": 400,
     "height": 600,
-	"resizable": false
+    "resizable": false
+  },
+  "dependencies": {
+    "materialize-css": "^0.96.1"
   }
 }
