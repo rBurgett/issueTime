@@ -1,0 +1,12 @@
+{
+  "name": "issueTime",
+  "version": "0.0.0",
+  "homepage": "https://github.com/rBurgett/issueTime",
+  "authors": [
+    "Ryan <ryan@burgettweb.net>"
+  ],
+  "license": "Apache2",
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
